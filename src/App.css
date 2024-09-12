@@ -36,3 +36,18 @@
     transform: rotate(360deg);
   }
 }
+/* Custom styles for NewsItem */
+/* Custom styles for NewsItem */
+.news-item-source {
+  position: absolute;
+  top: 0;
+  left: 0;
+  padding: 0.2rem 0.5rem; /* Smaller padding */
+  font-size: 0.8rem; /* Smaller font size */
+  color: white;
+  background-color: red; /* Red background color */
+  z-index: 1;
+  border-radius: 0.2rem; /* Optional: rounded corners */
+}
+
+
